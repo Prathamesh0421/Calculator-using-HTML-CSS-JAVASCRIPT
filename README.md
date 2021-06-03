@@ -11,4 +11,4 @@ git clone https://github.com/Prathamesh0421/Calculator-using-HTML-CSS-JAVASCRIPT
 
 ```  
 ## 2. [Download Zip here](https://github.com/Prathamesh0421/Calculator-using-HTML-CSS-JAVASCRIPT/archive/refs/heads/main.zip)  
-![Preview](assests/screenshots/preview.png)
+![Preview](assets/screenshots/preview.png)
