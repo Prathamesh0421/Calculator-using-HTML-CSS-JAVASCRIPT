@@ -1,7 +1,7 @@
 # Calculator-using-HTML-CSS-JAVASCRIPT
 
 
-This is basic calculator [Live Preview Here](https://prathamesh0421.github.io/Calculator-using-HTML-CSS-JAVASCRIPT/index.html")  
+This is basic calculator [Live Preview Here](https://prathamesh0421.github.io/Calculator-using-HTML-CSS-JAVASCRIPT/")  
 You can perform basic operations such addition,subtraction,multiplication and division  
 This project is developed using HTML,CSS and Javascipt  
 You can copy this app in your device by 2 ways  
