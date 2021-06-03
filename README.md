@@ -6,6 +6,9 @@
 - This project is developed using **HTML CSS Javascipt**  
 ### You can copy this app in your device by 2 ways  
 ## 1. Clone this repository  
-`git clone https://github.com/Prathamesh0421/Calculator-using-HTML-CSS-JAVASCRIPT.git`  
+```
+git clone https://github.com/Prathamesh0421/Calculator-using-HTML-CSS-JAVASCRIPT.git
+
+```  
 ## 2. [Download Zip here](https://github.com/Prathamesh0421/Calculator-using-HTML-CSS-JAVASCRIPT/archive/refs/heads/main.zip)  
 ![Preview](assests/screenshots/preview.png)
